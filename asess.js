@@ -53,5 +53,7 @@ checkoutBook(title)
 //book's isAvailable property to true. If the book is not found in the library, the function
 //should return a message indicating that the book does not belong to the library.
 function returnBook(title){
-    
+    if(books.isAvailable){
+        
+    }
 }
